@@ -16,6 +16,7 @@ Thus, you are not only contributing to the value of this site but to thousands o
 More info here:
 * [About the API](https://www.igdb.com/api)
 * [API Documentation](https://igdb.github.io/api/about/welcome/)
+* [More about the API](https://api.igdb.com)
 
 
 ## Installation and Setup
